@@ -1,0 +1,8 @@
+pandas
+openpyxl
+sqlalchemy
+mysql-connector-python
+matplotlib
+numpy
+python-dotenv
+folium
