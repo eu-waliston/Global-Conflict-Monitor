@@ -131,6 +131,8 @@ Uma das principais funcionalidades do projeto.
 
 O mapa foi desenvolvido para transformar dados históricos em uma visualização intuitiva, acessível e humanizada.
 
+<img width="1653" height="849" alt="Image" src="https://github.com/user-attachments/assets/5534cd6d-e107-4339-acbb-49c70be50ea1" />
+
 ---
 
 ## 🌐 Impacto Social
